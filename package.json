@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-test",
+  "name": "package-tester",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
-    "@ma9pie/test": "^0.0.15",
+    "@ma9pie/test": "^0.0.17",
     "babel-plugin-macros": "^3.1.0",
     "eslint-plugin-simple-import-sort": "^12.0.0",
     "next": "14.1.0",
