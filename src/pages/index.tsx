@@ -10,7 +10,7 @@ const Index = () => {
   return (
     <Layout>
       <Container>
-        <Button href="/@ma9pie/test">@ma9pie/test</Button>
+        <Button href="/@ma9pie/test-package">@ma9pie/test-package</Button>
       </Container>
     </Layout>
   );

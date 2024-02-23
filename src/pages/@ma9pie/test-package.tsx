@@ -1,4 +1,4 @@
-import { add, div, mul, sub, useHelloWorld } from '@ma9pie/test';
+import { add, div, mul, sub, useHelloWorld } from '@ma9pie/test-package';
 import React, { useEffect, useState } from 'react';
 
 import Layout from '@/components/layouts/Layout';

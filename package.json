@@ -12,10 +12,12 @@
     "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
-    "@ma9pie/test": "^0.0.17",
+    "@ma9pie/test-package": "^0.0.18",
     "babel-plugin-macros": "^3.1.0",
     "eslint-plugin-simple-import-sort": "^12.0.0",
+    "i": "^0.3.7",
     "next": "14.1.0",
+    "npm": "^10.4.0",
     "react": "^18",
     "react-dom": "^18",
     "twin.macro": "^3.4.1"
