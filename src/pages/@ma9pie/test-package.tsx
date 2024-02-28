@@ -1,4 +1,11 @@
-import { add, div, mul, sub, useHelloWorld } from '@ma9pie/test-package';
+import {
+  add,
+  div,
+  HelloWorld,
+  mul,
+  sub,
+  useHelloWorld,
+} from '@ma9pie/test-package';
 import React, { useEffect, useState } from 'react';
 
 import Layout from '@/components/layouts/Layout';
@@ -13,7 +20,11 @@ const Test = () => {
     console.log(div(1, 2));
   }, []);
 
-  return <Layout></Layout>;
+  return (
+    <Layout>
+      <HelloWorld></HelloWorld>
+    </Layout>
+  );
 };
 
 export default Test;
