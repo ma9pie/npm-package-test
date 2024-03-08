@@ -22,5 +22,5 @@ const Wrapper = styled.div`
   ${tw`flex flex-col`};
 `;
 const Content = styled.div`
-  ${tw`min-h-[calc(100vh-64px)] p-6`};
+  ${tw`flex flex-col min-h-[calc(100vh-64px)] p-6`};
 `;
