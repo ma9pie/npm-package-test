@@ -14,6 +14,7 @@
     "@emotion/styled": "^11.11.0",
     "@ma9pie/math": "^0.0.13",
     "@ma9pie/test-package": "^0.1.0",
+    "@ma9pie/ui-kit": "^0.0.1",
     "@ma9pie/ui-package-boilerplate": "^0.0.2",
     "@ma9pie/use-modal": "^0.0.6",
     "@ma9pie/util-package-boilerplate": "^0.0.2",
