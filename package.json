@@ -16,7 +16,7 @@
     "@ma9pie/test-package": "^0.1.0",
     "@ma9pie/ui-kit": "^0.0.1",
     "@ma9pie/ui-package-boilerplate": "^0.0.2",
-    "@ma9pie/use-modal": "^0.0.6",
+    "@ma9pie/use-modal": "^0.0.8",
     "@ma9pie/util-package-boilerplate": "^0.0.2",
     "babel-plugin-macros": "^3.1.0",
     "eslint-plugin-simple-import-sort": "^12.0.0",
