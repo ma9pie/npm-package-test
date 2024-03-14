@@ -11,7 +11,7 @@ const PACKAGE_LIST = [
   '@ma9pie/ui-package-boilerplate',
   '@ma9pie/math',
   '@ma9pie/use-modal',
-  '@ma9pie/ui-kit',
+  '@ma9pie/lite-ui',
 ];
 
 const Index = () => {
