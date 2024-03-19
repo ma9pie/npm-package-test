@@ -7,7 +7,7 @@ import Layout from '@/components/layouts/Layout';
 const Test = () => {
   return (
     <Layout>
-      <Flex>
+      <Flex col gap={8}>
         <Box></Box>
         <Box></Box>
         <Box></Box>
